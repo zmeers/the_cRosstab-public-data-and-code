@@ -1,7 +1,7 @@
 # The cRosstab Public Data and Code
-Data and code behind the posts at my politics and data blog, [The Crosstab](www.thecrosstab.com)
+Data and code behind the posts at my data and politics blog, [The Crosstab](www.thecrosstab.com)
 
-Posts about data science (populating the majority of files in this repository) can be found under my blog's [Data Science](http://www.thecrosstab.com/categories/data-science/) Category.
+Posts about data science (populating the majority of files in this repository) can be found under my blog's [Data Science](http://www.thecrosstab.com/categories/data-science/) category.
 
 # Directory: 
 
