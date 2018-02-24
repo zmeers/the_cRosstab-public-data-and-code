@@ -5,6 +5,6 @@ Posts about data science (populating the majority of files in this repository) c
 
 # Directory: 
 
-Blog Post Name | Blog Post Link | Data/Code File Link |
----|---|---
-No. 1 — Introduction, and Averaging Polls of the 2016 U.S. Presidential Election | [link](http://www.thecrosstab.com/datascience/r-1/) | [link](https://github.com/elliottmorris/the_cRosstab-public-data-and-code/r-1)
+Blog Post Name | Data/Code File Link |
+--|--
+[No. 1 — Introduction, and Averaging Polls of the 2016 U.S. Presidential Election]((http://www.thecrosstab.com/datascience/r-1/)) | [link](https://github.com/elliottmorris/the_cRosstab-public-data-and-code/r-1)
