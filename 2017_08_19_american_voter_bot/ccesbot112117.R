@@ -38,7 +38,6 @@ options(stringsAsFactors = FALSE)
 # reading in data ----
 
 # set your working directory here
-#setwd("/Users/Victor/Desktop/Blog-data/cces 2016/")
 cces <- read.dta("CCES16_Common_OUTPUT_Feb2018_VV.dta")
 
 # selecting variables 
@@ -383,8 +382,6 @@ ggplot() +
         legend.text = element_text(size = 11),
         strip.text = element_text(size = 11),
         legend.position = "bottom") 
-
-ggsave("/Users/Victor/Desktop/Blog-data/visualization/non-election season 2016-17 (2)/constraint090517.png", width = 10, height = 7.5)
 
 # ----
 
