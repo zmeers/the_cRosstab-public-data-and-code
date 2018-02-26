@@ -1,8 +1,8 @@
 # TO RUN: must download recent CCES data file from https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910/DVN/GDF6Z0
 
-# Alexander Agadjanian and G. Elliott Morris
+# By: Alexander Agadjanian and G. Elliott Morris
 # 
-# last update: 11/21/17
+# last update: 2/24/2018
 
 # Notes:
 # november update to cces bot -- expanding to use of 280 characters
